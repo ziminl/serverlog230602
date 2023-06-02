@@ -1,2 +1,2 @@
 # serverlog230602
-huh
+https://nvd.nist.gov/vuln/detail/CVE-2018-20062
